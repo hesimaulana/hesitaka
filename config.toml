@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hesimaulana.github.io/hesitaka.github.io/'
 languageCode = 'en-us'
 title = 'Hesi Taka Maulana'
 theme='ananke'
